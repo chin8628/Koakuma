@@ -31,3 +31,5 @@ build
 env/
 
 key\.py
+
+test\.py
